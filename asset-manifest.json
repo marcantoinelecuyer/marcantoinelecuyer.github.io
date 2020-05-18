@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.886bc011.chunk.css",
+    "main.js": "/static/js/main.55866faf.chunk.js",
+    "main.js.map": "/static/js/main.55866faf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e881ee05.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e881ee05.js.map",
+    "static/js/2.e971ab0b.chunk.js": "/static/js/2.e971ab0b.chunk.js",
+    "static/js/2.e971ab0b.chunk.js.map": "/static/js/2.e971ab0b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cc368117686acc57a16ea30275a30442.js": "/precache-manifest.cc368117686acc57a16ea30275a30442.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.886bc011.chunk.css.map": "/static/css/main.886bc011.chunk.css.map",
+    "static/js/2.e971ab0b.chunk.js.LICENSE.txt": "/static/js/2.e971ab0b.chunk.js.LICENSE.txt",
+    "static/media/a.png": "/static/media/a.f0cf6e75.png",
+    "static/media/beecomb.png": "/static/media/beecomb.1a4e3369.png",
+    "static/media/grumpygoats.png": "/static/media/grumpygoats.afef525e.png",
+    "static/media/inked.png": "/static/media/inked.67700ae3.png",
+    "static/media/m.png": "/static/media/m.02aa8b1e.png",
+    "static/media/plague.png": "/static/media/plague.5df0803b.png",
+    "static/media/siblants.png": "/static/media/siblants.225fff64.png",
+    "static/media/tactile.png": "/static/media/tactile.91d4e685.png",
+    "static/media/tron.png": "/static/media/tron.2622da73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e881ee05.js",
+    "static/js/2.e971ab0b.chunk.js",
+    "static/css/main.886bc011.chunk.css",
+    "static/js/main.55866faf.chunk.js"
+  ]
+}
